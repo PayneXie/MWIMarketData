@@ -44,3 +44,4 @@ database.json
 # Next.js
 .next/
 out/ 
+/frontend/.next/
