@@ -92,5 +92,5 @@ npm run dev
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by MilkyWayIdle players</sub>
+  <sub>Built by Payne</sub>
 </div> 
