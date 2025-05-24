@@ -39,4 +39,8 @@ database.json
 *.sqlite3
 
 # Logs
-*.log 
+*.log
+
+# Next.js
+.next/
+out/ 

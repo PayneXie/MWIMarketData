@@ -4,6 +4,6 @@
         "port": 3306,
         "user": "your_username",
         "password": "your_password",
-        "database": "market_data"
+        "database": "databese_name"
     }
 } 
